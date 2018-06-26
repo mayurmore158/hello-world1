@@ -1,2 +1,3 @@
 # hello-world1
-hiii
+ready for learning
+
